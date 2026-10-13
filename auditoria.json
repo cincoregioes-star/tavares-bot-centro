@@ -1,0 +1,549 @@
+{
+  "gerado_em": "2026-10-13T00:00:00Z",
+  "total": 77,
+  "origem": "Inventário inicial, não é auditoria automática",
+  "erros": [
+    "Execute o workflow para obter dados atuais."
+  ],
+  "repositorios": [
+    {
+      "nome": "portal-neon",
+      "url": "https://github.com/cincoregioes-star/portal-neon",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "desafio-anafaco-1-trim-2026",
+      "url": "https://github.com/cincoregioes-star/desafio-anafaco-1-trim-2026",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "literatura-teste",
+      "url": "https://github.com/cincoregioes-star/literatura-teste",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "biologia-teste",
+      "url": "https://github.com/cincoregioes-star/biologia-teste",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "forma-o-cidad--digital",
+      "url": "https://github.com/cincoregioes-star/forma-o-cidad--digital",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "gabarito-max-moradanova_teste",
+      "url": "https://github.com/cincoregioes-star/gabarito-max-moradanova_teste",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "gabarito-max-nacional",
+      "url": "https://github.com/cincoregioes-star/gabarito-max-nacional",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "simuladomax-inss-gratis",
+      "url": "https://github.com/cincoregioes-star/simuladomax-inss-gratis",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "base-sintropia",
+      "url": "https://github.com/cincoregioes-star/base-sintropia",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "sefaz-teste",
+      "url": "https://github.com/cincoregioes-star/sefaz-teste",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "Data-AI-Interview-Pro",
+      "url": "https://github.com/cincoregioes-star/Data-AI-Interview-Pro",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "isca-gabarito-max-morada-nova-",
+      "url": "https://github.com/cincoregioes-star/isca-gabarito-max-morada-nova-",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "gabarito-pdm-beberibe",
+      "url": "https://github.com/cincoregioes-star/gabarito-pdm-beberibe",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "revisao-final-enem-teste",
+      "url": "https://github.com/cincoregioes-star/revisao-final-enem-teste",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "reda-o-teste",
+      "url": "https://github.com/cincoregioes-star/reda-o-teste",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "teste-enem-2026",
+      "url": "https://github.com/cincoregioes-star/teste-enem-2026",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "radar-conservador-brasil",
+      "url": "https://github.com/cincoregioes-star/radar-conservador-brasil",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "e-book-orientador-social-",
+      "url": "https://github.com/cincoregioes-star/e-book-orientador-social-",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "enem-plataforma",
+      "url": "https://github.com/cincoregioes-star/enem-plataforma",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "-simulado-copa-isca",
+      "url": "https://github.com/cincoregioes-star/-simulado-copa-isca",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "gabarito-datacenter-opera-o-monitoramento-teste",
+      "url": "https://github.com/cincoregioes-star/gabarito-datacenter-opera-o-monitoramento-teste",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "Gabarito_max_oficial",
+      "url": "https://github.com/cincoregioes-star/Gabarito_max_oficial",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "album-craques-da-varzea",
+      "url": "https://github.com/cincoregioes-star/album-craques-da-varzea",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "filosofia-teste",
+      "url": "https://github.com/cincoregioes-star/filosofia-teste",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "ingles-teste",
+      "url": "https://github.com/cincoregioes-star/ingles-teste",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "portugues-teste",
+      "url": "https://github.com/cincoregioes-star/portugues-teste",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "espanhol-teste",
+      "url": "https://github.com/cincoregioes-star/espanhol-teste",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "memorial-digital-geneal-gico",
+      "url": "https://github.com/cincoregioes-star/memorial-digital-geneal-gico",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "gabarito-max-maritimo-900q",
+      "url": "https://github.com/cincoregioes-star/gabarito-max-maritimo-900q",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "gabarito-max-oficial",
+      "url": "https://github.com/cincoregioes-star/gabarito-max-oficial",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "ed-fisica-teste",
+      "url": "https://github.com/cincoregioes-star/ed-fisica-teste",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "fisica-teste",
+      "url": "https://github.com/cincoregioes-star/fisica-teste",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "sistema-matriz-educacional",
+      "url": "https://github.com/cincoregioes-star/sistema-matriz-educacional",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "enem-premium-2026",
+      "url": "https://github.com/cincoregioes-star/enem-premium-2026",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "geografia-teste",
+      "url": "https://github.com/cincoregioes-star/geografia-teste",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "gabarito-logistica-testes-gratis",
+      "url": "https://github.com/cincoregioes-star/gabarito-logistica-testes-gratis",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "orientador-social-territorio-transformacao",
+      "url": "https://github.com/cincoregioes-star/orientador-social-territorio-transformacao",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "site_noticias_beberibe_oficial_2",
+      "url": "https://github.com/cincoregioes-star/site_noticias_beberibe_oficial_2",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "album-feira--de-ciencias-ana-faco-",
+      "url": "https://github.com/cincoregioes-star/album-feira--de-ciencias-ana-faco-",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "BASE-Orienta-Social-2.0",
+      "url": "https://github.com/cincoregioes-star/BASE-Orienta-Social-2.0",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "gabarito-max-tec-enfermagem-900q",
+      "url": "https://github.com/cincoregioes-star/gabarito-max-tec-enfermagem-900q",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "E-BOOK-ORIENTA-O-SOCIAL-QUE-CULTIVA-CIDADANIA",
+      "url": "https://github.com/cincoregioes-star/E-BOOK-ORIENTA-O-SOCIAL-QUE-CULTIVA-CIDADANIA",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "tjce-teste",
+      "url": "https://github.com/cincoregioes-star/tjce-teste",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "amalista-adm-premium",
+      "url": "https://github.com/cincoregioes-star/amalista-adm-premium",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "enem-isca",
+      "url": "https://github.com/cincoregioes-star/enem-isca",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "base-sintropia-bi",
+      "url": "https://github.com/cincoregioes-star/base-sintropia-bi",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "gabarito-data-center-testes-gratis",
+      "url": "https://github.com/cincoregioes-star/gabarito-data-center-testes-gratis",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "quimica-teste",
+      "url": "https://github.com/cincoregioes-star/quimica-teste",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "gabarito-max-9ano",
+      "url": "https://github.com/cincoregioes-star/gabarito-max-9ano",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "gabarito-max-bancarias",
+      "url": "https://github.com/cincoregioes-star/gabarito-max-bancarias",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "ebook-meu-quintal-produtivo-biomyra",
+      "url": "https://github.com/cincoregioes-star/ebook-meu-quintal-produtivo-biomyra",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "premium-gabarito-bancarias",
+      "url": "https://github.com/cincoregioes-star/premium-gabarito-bancarias",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "PaySupport-Flow-Demo",
+      "url": "https://github.com/cincoregioes-star/PaySupport-Flow-Demo",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "atualidades-teste",
+      "url": "https://github.com/cincoregioes-star/atualidades-teste",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "milmo-legacy-hub",
+      "url": "https://github.com/cincoregioes-star/milmo-legacy-hub",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "simulado-inss-gratis",
+      "url": "https://github.com/cincoregioes-star/simulado-inss-gratis",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "heidy-evan-escritora",
+      "url": "https://github.com/cincoregioes-star/heidy-evan-escritora",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "caderno-digital-pdm-beberibe-2026",
+      "url": "https://github.com/cincoregioes-star/caderno-digital-pdm-beberibe-2026",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "album-dupla-exclusao-premium",
+      "url": "https://github.com/cincoregioes-star/album-dupla-exclusao-premium",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "album-dupla-exclusao",
+      "url": "https://github.com/cincoregioes-star/album-dupla-exclusao",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "site-pdm-oficial",
+      "url": "https://github.com/cincoregioes-star/site-pdm-oficial",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "radar-copa-2026-com-album",
+      "url": "https://github.com/cincoregioes-star/radar-copa-2026-com-album",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "site_noticias_beberibe_oficial",
+      "url": "https://github.com/cincoregioes-star/site_noticias_beberibe_oficial",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "desafio-anafaco-2026",
+      "url": "https://github.com/cincoregioes-star/desafio-anafaco-2026",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "album-debutantes",
+      "url": "https://github.com/cincoregioes-star/album-debutantes",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "simulado-analista-adm-isca",
+      "url": "https://github.com/cincoregioes-star/simulado-analista-adm-isca",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "matematica-teste",
+      "url": "https://github.com/cincoregioes-star/matematica-teste",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "DB-ENEM",
+      "url": "https://github.com/cincoregioes-star/DB-ENEM",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "site_noticias_beberibe_oficial_3",
+      "url": "https://github.com/cincoregioes-star/site_noticias_beberibe_oficial_3",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "dupla-exclusao-educacional",
+      "url": "https://github.com/cincoregioes-star/dupla-exclusao-educacional",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "historia-teste",
+      "url": "https://github.com/cincoregioes-star/historia-teste",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "sociologia-teste",
+      "url": "https://github.com/cincoregioes-star/sociologia-teste",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "artes-teste",
+      "url": "https://github.com/cincoregioes-star/artes-teste",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "matriz-educacional",
+      "url": "https://github.com/cincoregioes-star/matriz-educacional",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "oficial-portal-gabaritomax",
+      "url": "https://github.com/cincoregioes-star/oficial-portal-gabaritomax",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "site_pdm",
+      "url": "https://github.com/cincoregioes-star/site_pdm",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    },
+    {
+      "nome": "gabarito-orientador-social",
+      "url": "https://github.com/cincoregioes-star/gabarito-orientador-social",
+      "status_site": "nao_verificado",
+      "readme": "nao_verificado",
+      "index": "nao_verificado"
+    }
+  ]
+}
