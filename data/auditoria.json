@@ -1,474 +1,1090 @@
 {
-  "gerado_em": "2026-10-13T12:37:51.035696+00:00",
+  "gerado_em": "2026-10-13T12:42:06.046299+00:00",
+  "usuario": "cincoregioes-star",
   "total": 78,
+  "sem_readme_raiz": 68,
+  "sem_index_raiz": 8,
+  "arquivados": 0,
   "repositorios": [
     {
       "nome": "-simulado-copa-isca",
       "url": "https://github.com/cincoregioes-star/-simulado-copa-isca",
       "descricao": null,
-      "atualizado": "2026-05-13T17:53:00Z"
+      "atualizado": "2026-05-13T17:53:00Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "album-craques-da-varzea",
       "url": "https://github.com/cincoregioes-star/album-craques-da-varzea",
       "descricao": null,
-      "atualizado": "2026-06-04T19:21:13Z"
+      "atualizado": "2026-06-04T19:21:13Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "album-debutantes",
       "url": "https://github.com/cincoregioes-star/album-debutantes",
       "descricao": null,
-      "atualizado": "2026-06-01T16:43:58Z"
+      "atualizado": "2026-06-01T16:43:58Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "album-dupla-exclusao",
       "url": "https://github.com/cincoregioes-star/album-dupla-exclusao",
       "descricao": null,
-      "atualizado": "2026-09-05T09:31:41Z"
+      "atualizado": "2026-09-05T09:31:41Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": true,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": []
     },
     {
       "nome": "album-dupla-exclusao-premium",
       "url": "https://github.com/cincoregioes-star/album-dupla-exclusao-premium",
       "descricao": null,
-      "atualizado": "2026-09-08T11:46:06Z"
+      "atualizado": "2026-09-08T11:46:06Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": true,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "album-feira--de-ciencias-ana-faco-",
       "url": "https://github.com/cincoregioes-star/album-feira--de-ciencias-ana-faco-",
       "descricao": null,
-      "atualizado": "2026-06-03T11:16:49Z"
+      "atualizado": "2026-06-03T11:16:49Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "amalista-adm-premium",
       "url": "https://github.com/cincoregioes-star/amalista-adm-premium",
       "descricao": null,
-      "atualizado": "2026-04-17T20:25:18Z"
+      "atualizado": "2026-04-17T20:25:18Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "artes-teste",
       "url": "https://github.com/cincoregioes-star/artes-teste",
       "descricao": null,
-      "atualizado": "2026-05-14T12:31:22Z"
+      "atualizado": "2026-05-14T12:31:22Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "atualidades-teste",
       "url": "https://github.com/cincoregioes-star/atualidades-teste",
       "descricao": null,
-      "atualizado": "2026-05-14T12:45:25Z"
+      "atualizado": "2026-05-14T12:45:25Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "BASE-Orienta-Social-2.0",
       "url": "https://github.com/cincoregioes-star/BASE-Orienta-Social-2.0",
       "descricao": null,
-      "atualizado": "2026-08-18T14:59:19Z"
+      "atualizado": "2026-08-18T14:59:19Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "base-sintropia",
       "url": "https://github.com/cincoregioes-star/base-sintropia",
       "descricao": null,
-      "atualizado": "2026-08-31T22:00:16Z"
+      "atualizado": "2026-08-31T22:00:16Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": true,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": []
     },
     {
       "nome": "base-sintropia-bi",
       "url": "https://github.com/cincoregioes-star/base-sintropia-bi",
       "descricao": null,
-      "atualizado": "2026-09-01T12:08:26Z"
+      "atualizado": "2026-09-01T12:08:26Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": true,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": []
     },
     {
       "nome": "biologia-teste",
       "url": "https://github.com/cincoregioes-star/biologia-teste",
       "descricao": null,
-      "atualizado": "2026-05-14T12:58:43Z"
+      "atualizado": "2026-05-14T12:58:43Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "caderno-digital-pdm-beberibe-2026",
       "url": "https://github.com/cincoregioes-star/caderno-digital-pdm-beberibe-2026",
       "descricao": null,
-      "atualizado": "2026-08-11T12:12:01Z"
+      "atualizado": "2026-08-11T12:12:01Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "Data-AI-Interview-Pro",
       "url": "https://github.com/cincoregioes-star/Data-AI-Interview-Pro",
       "descricao": null,
-      "atualizado": "2026-03-21T12:52:48Z"
+      "atualizado": "2026-03-21T12:52:48Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "DB-ENEM",
       "url": "https://github.com/cincoregioes-star/DB-ENEM",
       "descricao": null,
-      "atualizado": "2026-06-21T19:44:41Z"
+      "atualizado": "2026-06-21T19:44:41Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "desafio-anafaco-1-trim-2026",
       "url": "https://github.com/cincoregioes-star/desafio-anafaco-1-trim-2026",
       "descricao": null,
-      "atualizado": "2026-03-06T17:20:29Z"
+      "atualizado": "2026-03-06T17:20:29Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "desafio-anafaco-2026",
       "url": "https://github.com/cincoregioes-star/desafio-anafaco-2026",
       "descricao": null,
-      "atualizado": "2026-03-06T16:41:54Z"
+      "atualizado": "2026-03-06T16:41:54Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "dupla-exclusao-educacional",
       "url": "https://github.com/cincoregioes-star/dupla-exclusao-educacional",
       "descricao": null,
-      "atualizado": "2026-09-11T13:57:54Z"
+      "atualizado": "2026-09-11T13:57:54Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": true,
+      "index_raiz": true,
+      "workflows": true,
+      "alertas": []
     },
     {
       "nome": "E-BOOK-ORIENTA-O-SOCIAL-QUE-CULTIVA-CIDADANIA",
       "url": "https://github.com/cincoregioes-star/E-BOOK-ORIENTA-O-SOCIAL-QUE-CULTIVA-CIDADANIA",
       "descricao": null,
-      "atualizado": "2026-08-23T13:05:14Z"
+      "atualizado": "2026-08-23T13:05:14Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "e-book-orientador-social-",
       "url": "https://github.com/cincoregioes-star/e-book-orientador-social-",
       "descricao": null,
-      "atualizado": "2026-08-19T12:37:36Z"
+      "atualizado": "2026-08-19T12:37:36Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": false,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz",
+        "index.html ausente na raiz (pode usar outra estrutura)"
+      ]
     },
     {
       "nome": "ebook-meu-quintal-produtivo-biomyra",
       "url": "https://github.com/cincoregioes-star/ebook-meu-quintal-produtivo-biomyra",
       "descricao": "E-book Meu Quintal Produtivo — BioMyrã Fertilizantes Orgânicos",
-      "atualizado": "2026-08-18T11:35:46Z"
+      "atualizado": "2026-08-18T11:35:46Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": true,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": []
     },
     {
       "nome": "ed-fisica-teste",
       "url": "https://github.com/cincoregioes-star/ed-fisica-teste",
       "descricao": null,
-      "atualizado": "2026-05-14T13:02:53Z"
+      "atualizado": "2026-05-14T13:02:53Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "enem-isca",
       "url": "https://github.com/cincoregioes-star/enem-isca",
       "descricao": null,
-      "atualizado": "2026-04-21T18:23:28Z"
+      "atualizado": "2026-04-21T18:23:28Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "enem-plataforma",
       "url": "https://github.com/cincoregioes-star/enem-plataforma",
       "descricao": null,
-      "atualizado": "2026-04-21T18:00:32Z"
+      "atualizado": "2026-04-21T18:00:32Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "enem-premium-2026",
       "url": "https://github.com/cincoregioes-star/enem-premium-2026",
       "descricao": null,
-      "atualizado": "2026-04-21T20:32:41Z"
+      "atualizado": "2026-04-21T20:32:41Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "espanhol-teste",
       "url": "https://github.com/cincoregioes-star/espanhol-teste",
       "descricao": null,
-      "atualizado": "2026-05-14T13:09:16Z"
+      "atualizado": "2026-05-14T13:09:16Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "filosofia-teste",
       "url": "https://github.com/cincoregioes-star/filosofia-teste",
       "descricao": null,
-      "atualizado": "2026-05-14T13:14:34Z"
+      "atualizado": "2026-05-14T13:14:34Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "fisica-teste",
       "url": "https://github.com/cincoregioes-star/fisica-teste",
       "descricao": null,
-      "atualizado": "2026-05-14T13:26:56Z"
+      "atualizado": "2026-05-14T13:26:56Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "forma-o-cidad--digital",
       "url": "https://github.com/cincoregioes-star/forma-o-cidad--digital",
       "descricao": null,
-      "atualizado": "2026-09-07T10:06:11Z"
+      "atualizado": "2026-09-07T10:06:11Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": true,
+      "index_raiz": true,
+      "workflows": true,
+      "alertas": []
     },
     {
       "nome": "gabarito-data-center-testes-gratis",
       "url": "https://github.com/cincoregioes-star/gabarito-data-center-testes-gratis",
       "descricao": null,
-      "atualizado": "2026-08-05T12:33:10Z"
+      "atualizado": "2026-08-05T12:33:10Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "gabarito-datacenter-opera-o-monitoramento-teste",
       "url": "https://github.com/cincoregioes-star/gabarito-datacenter-opera-o-monitoramento-teste",
       "descricao": null,
-      "atualizado": "2026-08-04T14:46:40Z"
+      "atualizado": "2026-08-04T14:46:40Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "gabarito-logistica-testes-gratis",
       "url": "https://github.com/cincoregioes-star/gabarito-logistica-testes-gratis",
       "descricao": null,
-      "atualizado": "2026-08-10T10:18:26Z"
+      "atualizado": "2026-08-10T10:18:26Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "gabarito-max-9ano",
       "url": "https://github.com/cincoregioes-star/gabarito-max-9ano",
       "descricao": "Revisão Interativa da BNCC - 1º Trimestre do 9º Ano",
-      "atualizado": "2026-03-09T15:25:30Z"
+      "atualizado": "2026-03-09T15:25:30Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "gabarito-max-bancarias",
       "url": "https://github.com/cincoregioes-star/gabarito-max-bancarias",
       "descricao": null,
-      "atualizado": "2026-03-14T10:46:33Z"
+      "atualizado": "2026-03-14T10:46:33Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "gabarito-max-maritimo-900q",
       "url": "https://github.com/cincoregioes-star/gabarito-max-maritimo-900q",
       "descricao": null,
-      "atualizado": "2026-03-20T10:39:44Z"
+      "atualizado": "2026-03-20T10:39:44Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "gabarito-max-moradanova_teste",
       "url": "https://github.com/cincoregioes-star/gabarito-max-moradanova_teste",
       "descricao": null,
-      "atualizado": "2026-04-05T11:52:57Z"
+      "atualizado": "2026-04-05T11:52:57Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "gabarito-max-nacional",
       "url": "https://github.com/cincoregioes-star/gabarito-max-nacional",
       "descricao": null,
-      "atualizado": "2026-03-07T12:42:34Z"
+      "atualizado": "2026-03-07T12:42:34Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "gabarito-max-oficial",
       "url": "https://github.com/cincoregioes-star/gabarito-max-oficial",
       "descricao": null,
-      "atualizado": "2026-04-15T12:55:25Z"
+      "atualizado": "2026-04-15T12:55:25Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "gabarito-max-tec-enfermagem-900q",
       "url": "https://github.com/cincoregioes-star/gabarito-max-tec-enfermagem-900q",
       "descricao": null,
-      "atualizado": "2026-03-20T10:46:07Z"
+      "atualizado": "2026-03-20T10:46:07Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "gabarito-orientador-social",
       "url": "https://github.com/cincoregioes-star/gabarito-orientador-social",
       "descricao": null,
-      "atualizado": "2026-08-29T15:00:33Z"
+      "atualizado": "2026-08-29T15:00:33Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "gabarito-pdm-beberibe",
       "url": "https://github.com/cincoregioes-star/gabarito-pdm-beberibe",
       "descricao": null,
-      "atualizado": "2026-03-10T14:27:13Z"
+      "atualizado": "2026-03-10T14:27:13Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "Gabarito_max_oficial",
       "url": "https://github.com/cincoregioes-star/Gabarito_max_oficial",
       "descricao": null,
-      "atualizado": "2026-04-15T12:18:09Z"
+      "atualizado": "2026-04-15T12:18:09Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": false,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz",
+        "index.html ausente na raiz (pode usar outra estrutura)"
+      ]
     },
     {
       "nome": "geografia-teste",
       "url": "https://github.com/cincoregioes-star/geografia-teste",
       "descricao": null,
-      "atualizado": "2026-05-14T13:34:31Z"
+      "atualizado": "2026-05-14T13:34:31Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "heidy-evan-escritora",
       "url": "https://github.com/cincoregioes-star/heidy-evan-escritora",
       "descricao": null,
-      "atualizado": "2026-07-20T21:02:39Z"
+      "atualizado": "2026-07-20T21:02:39Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": true,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": []
     },
     {
       "nome": "historia-teste",
       "url": "https://github.com/cincoregioes-star/historia-teste",
       "descricao": null,
-      "atualizado": "2026-05-14T13:43:14Z"
+      "atualizado": "2026-05-14T13:43:14Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "ingles-teste",
       "url": "https://github.com/cincoregioes-star/ingles-teste",
       "descricao": null,
-      "atualizado": "2026-05-14T15:20:57Z"
+      "atualizado": "2026-05-14T15:20:57Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "isca-gabarito-max-morada-nova-",
       "url": "https://github.com/cincoregioes-star/isca-gabarito-max-morada-nova-",
       "descricao": null,
-      "atualizado": "2026-03-14T19:02:50Z"
+      "atualizado": "2026-03-14T19:02:50Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "literatura-teste",
       "url": "https://github.com/cincoregioes-star/literatura-teste",
       "descricao": null,
-      "atualizado": "2026-05-14T15:36:11Z"
+      "atualizado": "2026-05-14T15:36:11Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "matematica-teste",
       "url": "https://github.com/cincoregioes-star/matematica-teste",
       "descricao": null,
-      "atualizado": "2026-05-14T15:58:03Z"
+      "atualizado": "2026-05-14T15:58:03Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "matriz-educacional",
       "url": "https://github.com/cincoregioes-star/matriz-educacional",
       "descricao": null,
-      "atualizado": "2026-05-13T16:10:20Z"
+      "atualizado": "2026-05-13T16:10:20Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "memorial-digital-geneal-gico",
       "url": "https://github.com/cincoregioes-star/memorial-digital-geneal-gico",
       "descricao": null,
-      "atualizado": "2026-07-16T23:24:36Z"
+      "atualizado": "2026-07-16T23:24:36Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "milmo-legacy-hub",
       "url": "https://github.com/cincoregioes-star/milmo-legacy-hub",
       "descricao": null,
-      "atualizado": "2026-09-16T13:50:01Z"
+      "atualizado": "2026-09-16T13:50:01Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": true,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": []
     },
     {
       "nome": "oficial-portal-gabaritomax",
       "url": "https://github.com/cincoregioes-star/oficial-portal-gabaritomax",
       "descricao": null,
-      "atualizado": "2026-06-21T19:54:43Z"
+      "atualizado": "2026-06-21T19:54:43Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "orientador-social-territorio-transformacao",
       "url": "https://github.com/cincoregioes-star/orientador-social-territorio-transformacao",
       "descricao": null,
-      "atualizado": "2026-08-19T13:37:10Z"
+      "atualizado": "2026-08-19T13:37:10Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": true,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": []
     },
     {
       "nome": "PaySupport-Flow-Demo",
       "url": "https://github.com/cincoregioes-star/PaySupport-Flow-Demo",
       "descricao": null,
-      "atualizado": "2026-06-14T14:50:57Z"
+      "atualizado": "2026-06-14T14:50:57Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "portal-neon",
       "url": "https://github.com/cincoregioes-star/portal-neon",
       "descricao": null,
-      "atualizado": "2026-03-05T20:07:11Z"
+      "atualizado": "2026-03-05T20:07:11Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "portugues-teste",
       "url": "https://github.com/cincoregioes-star/portugues-teste",
       "descricao": null,
-      "atualizado": "2026-05-15T09:48:01Z"
+      "atualizado": "2026-05-15T09:48:01Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "premium-gabarito-bancarias",
       "url": "https://github.com/cincoregioes-star/premium-gabarito-bancarias",
       "descricao": null,
-      "atualizado": "2026-03-14T10:55:08Z"
+      "atualizado": "2026-03-14T10:55:08Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "quimica-teste",
       "url": "https://github.com/cincoregioes-star/quimica-teste",
       "descricao": null,
-      "atualizado": "2026-05-15T09:52:53Z"
+      "atualizado": "2026-05-15T09:52:53Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "radar-conservador-brasil",
       "url": "https://github.com/cincoregioes-star/radar-conservador-brasil",
       "descricao": null,
-      "atualizado": "2026-05-13T15:58:59Z"
+      "atualizado": "2026-05-13T15:58:59Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "radar-copa-2026-com-album",
       "url": "https://github.com/cincoregioes-star/radar-copa-2026-com-album",
       "descricao": null,
-      "atualizado": "2026-05-13T11:20:49Z"
+      "atualizado": "2026-05-13T11:20:49Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": false,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz",
+        "index.html ausente na raiz (pode usar outra estrutura)"
+      ]
     },
     {
       "nome": "reda-o-teste",
       "url": "https://github.com/cincoregioes-star/reda-o-teste",
       "descricao": null,
-      "atualizado": "2026-05-14T12:52:50Z"
+      "atualizado": "2026-05-14T12:52:50Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "revisao-final-enem-teste",
       "url": "https://github.com/cincoregioes-star/revisao-final-enem-teste",
       "descricao": null,
-      "atualizado": "2026-05-15T09:56:51Z"
+      "atualizado": "2026-05-15T09:56:51Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "sefaz-teste",
       "url": "https://github.com/cincoregioes-star/sefaz-teste",
       "descricao": null,
-      "atualizado": "2026-08-21T12:02:59Z"
+      "atualizado": "2026-08-21T12:02:59Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "simulado-analista-adm-isca",
       "url": "https://github.com/cincoregioes-star/simulado-analista-adm-isca",
       "descricao": null,
-      "atualizado": "2026-05-13T19:03:25Z"
+      "atualizado": "2026-05-13T19:03:25Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "simulado-inss-gratis",
       "url": "https://github.com/cincoregioes-star/simulado-inss-gratis",
       "descricao": null,
-      "atualizado": "2026-03-11T13:42:38Z"
+      "atualizado": "2026-03-11T13:42:38Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": false,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz",
+        "index.html ausente na raiz (pode usar outra estrutura)"
+      ]
     },
     {
       "nome": "simuladomax-inss-gratis",
       "url": "https://github.com/cincoregioes-star/simuladomax-inss-gratis",
       "descricao": null,
-      "atualizado": "2026-05-13T20:06:55Z"
+      "atualizado": "2026-05-13T20:06:55Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "sistema-matriz-educacional",
       "url": "https://github.com/cincoregioes-star/sistema-matriz-educacional",
       "descricao": null,
-      "atualizado": "2026-05-23T14:50:19Z"
+      "atualizado": "2026-05-23T14:50:19Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": false,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz",
+        "index.html ausente na raiz (pode usar outra estrutura)"
+      ]
     },
     {
       "nome": "site-pdm-oficial",
       "url": "https://github.com/cincoregioes-star/site-pdm-oficial",
       "descricao": null,
-      "atualizado": "2026-07-22T13:17:56Z"
+      "atualizado": "2026-07-22T13:17:56Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "site_noticias_beberibe_oficial",
       "url": "https://github.com/cincoregioes-star/site_noticias_beberibe_oficial",
       "descricao": null,
-      "atualizado": "2026-04-14T15:39:43Z"
+      "atualizado": "2026-04-14T15:39:43Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": false,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz",
+        "index.html ausente na raiz (pode usar outra estrutura)"
+      ]
     },
     {
       "nome": "site_noticias_beberibe_oficial_2",
       "url": "https://github.com/cincoregioes-star/site_noticias_beberibe_oficial_2",
       "descricao": null,
-      "atualizado": "2026-04-14T15:46:45Z"
+      "atualizado": "2026-04-14T15:46:45Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": false,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz",
+        "index.html ausente na raiz (pode usar outra estrutura)"
+      ]
     },
     {
       "nome": "site_noticias_beberibe_oficial_3",
       "url": "https://github.com/cincoregioes-star/site_noticias_beberibe_oficial_3",
       "descricao": null,
-      "atualizado": "2026-08-24T20:52:39Z"
+      "atualizado": "2026-08-24T20:52:39Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "site_pdm",
       "url": "https://github.com/cincoregioes-star/site_pdm",
       "descricao": null,
-      "atualizado": "2026-04-07T14:27:41Z"
+      "atualizado": "2026-04-07T14:27:41Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": false,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz",
+        "index.html ausente na raiz (pode usar outra estrutura)"
+      ]
     },
     {
       "nome": "sociologia-teste",
       "url": "https://github.com/cincoregioes-star/sociologia-teste",
       "descricao": null,
-      "atualizado": "2026-05-15T10:01:09Z"
+      "atualizado": "2026-05-15T10:01:09Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "tavares-bot-centro",
       "url": "https://github.com/cincoregioes-star/tavares-bot-centro",
       "descricao": null,
-      "atualizado": "2026-10-13T12:35:54Z"
+      "atualizado": "2026-10-13T12:40:34Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": true,
+      "index_raiz": true,
+      "workflows": true,
+      "alertas": []
     },
     {
       "nome": "teste-enem-2026",
       "url": "https://github.com/cincoregioes-star/teste-enem-2026",
       "descricao": null,
-      "atualizado": "2026-04-22T12:10:24Z"
+      "atualizado": "2026-04-22T12:10:24Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     },
     {
       "nome": "tjce-teste",
       "url": "https://github.com/cincoregioes-star/tjce-teste",
       "descricao": null,
-      "atualizado": "2026-08-21T12:07:22Z"
+      "atualizado": "2026-08-21T12:07:22Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
     }
   ]
 }
