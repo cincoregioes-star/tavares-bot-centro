@@ -1,0 +1,33 @@
+name: TAVARES Bot - Auditoria semanal
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 11 * * 1'
+permissions:
+  contents: write
+concurrency:
+  group: tavares-auditoria
+  cancel-in-progress: false
+jobs:
+  auditoria:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Auditar repositórios públicos
+        env:
+          GITHUB_OWNER: cincoregioes-star
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/auditar.py
+      - name: Salvar relatórios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/auditoria.json data/RELATORIO.md
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: atualizar inventário TAVARES Bot"
+            git push
+          fi
