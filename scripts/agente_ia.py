@@ -8,7 +8,7 @@ BASE="https://api.github.com/repos/"+OWNER+"/"+REPO
 MARK="<!-- TAVARES_AI_REQUEST_V1 -->"
 GITHUB_TOKEN=os.environ.get("GITHUB_TOKEN","")
 OPENAI_KEY=os.environ.get("OPENAI_API_KEY","")
-MODEL=os.environ.get("TAVARES_AI_MODEL","gpt-6-sol")
+MODEL=os.environ.get("TAVARES_AI_MODEL","gpt-5-mini")
 
 def gh(method,path,body=None):
     request=urllib.request.Request(BASE+path,
