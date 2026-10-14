@@ -1,0 +1,41 @@
+name: TAVARES Bot - Desenvolvedor IA
+on:
+  issues:
+    types: [opened]
+  issue_comment:
+    types: [created]
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+concurrency:
+  group: tavares-ai-${{ github.event.issue.number }}
+  cancel-in-progress: false
+jobs:
+  desenvolver:
+    if: >-
+      github.repository == 'cincoregioes-star/tavares-bot-centro' &&
+      github.event.issue.user.login == 'cincoregioes-star' &&
+      startsWith(github.event.issue.title, '[TAVARES-IA]') &&
+      !github.event.issue.pull_request &&
+      (github.event_name == 'issues' ||
+      (github.event.comment.user.login == 'cincoregioes-star' &&
+       startsWith(github.event.comment.body, '/ajustar ')))
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - name: Baixar projeto
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+      - name: Preparar Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Desenvolver projeto com IA e criar PR de revisão
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          TAVARES_AI_MODEL: ${{ vars.TAVARES_AI_MODEL || 'gpt-5-mini' }}
+        run: python scripts/agente_ia.py
