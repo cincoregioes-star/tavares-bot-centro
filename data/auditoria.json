@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-10-13T12:42:06.046299+00:00",
+  "gerado_em": "2026-10-19T17:31:46.471117+00:00",
   "usuario": "cincoregioes-star",
-  "total": 78,
-  "sem_readme_raiz": 68,
+  "total": 80,
+  "sem_readme_raiz": 69,
   "sem_index_raiz": 8,
   "arquivados": 0,
   "repositorios": [
@@ -173,6 +173,20 @@
       "url": "https://github.com/cincoregioes-star/biologia-teste",
       "descricao": null,
       "atualizado": "2026-05-14T12:58:43Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
+    },
+    {
+      "nome": "brasil-forte-profissoes",
+      "url": "https://github.com/cincoregioes-star/brasil-forte-profissoes",
+      "descricao": null,
+      "atualizado": "2026-10-15T21:18:38Z",
       "arquivado": false,
       "branch": "main",
       "readme_raiz": false,
@@ -653,6 +667,18 @@
       ]
     },
     {
+      "nome": "instituto-ensinomeu",
+      "url": "https://github.com/cincoregioes-star/instituto-ensinomeu",
+      "descricao": null,
+      "atualizado": "2026-10-19T15:20:42Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": true,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": []
+    },
+    {
       "nome": "isca-gabarito-max-morada-nova-",
       "url": "https://github.com/cincoregioes-star/isca-gabarito-max-morada-nova-",
       "descricao": null,
@@ -1050,7 +1076,7 @@
       "nome": "tavares-bot-centro",
       "url": "https://github.com/cincoregioes-star/tavares-bot-centro",
       "descricao": null,
-      "atualizado": "2026-10-13T12:40:34Z",
+      "atualizado": "2026-10-14T21:29:42Z",
       "arquivado": false,
       "branch": "main",
       "readme_raiz": true,

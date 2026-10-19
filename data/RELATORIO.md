@@ -1,8 +1,8 @@
 # TAVARES Bot — Auditoria técnica
 
-Gerado em UTC: 2026-10-13T12:42:06.046299+00:00
+Gerado em UTC: 2026-10-19T17:31:46.471117+00:00
 
-**Repositórios:** 78 | **Sem README na raiz:** 68 | **Sem index na raiz:** 8 | **Arquivados:** 0
+**Repositórios:** 80 | **Sem README na raiz:** 69 | **Sem index na raiz:** 8 | **Arquivados:** 0
 
 > A ausência de index.html ou README.md na raiz não prova defeito. Projetos podem ter outras estruturas.
 
@@ -21,6 +21,7 @@ Gerado em UTC: 2026-10-13T12:42:06.046299+00:00
 | [base-sintropia](https://github.com/cincoregioes-star/base-sintropia) | Sim | Sim | Não | — |
 | [base-sintropia-bi](https://github.com/cincoregioes-star/base-sintropia-bi) | Sim | Sim | Não | — |
 | [biologia-teste](https://github.com/cincoregioes-star/biologia-teste) | Não | Sim | Não | README.md ausente na raiz |
+| [brasil-forte-profissoes](https://github.com/cincoregioes-star/brasil-forte-profissoes) | Não | Sim | Não | README.md ausente na raiz |
 | [caderno-digital-pdm-beberibe-2026](https://github.com/cincoregioes-star/caderno-digital-pdm-beberibe-2026) | Não | Sim | Não | README.md ausente na raiz |
 | [Data-AI-Interview-Pro](https://github.com/cincoregioes-star/Data-AI-Interview-Pro) | Não | Sim | Não | README.md ausente na raiz |
 | [DB-ENEM](https://github.com/cincoregioes-star/DB-ENEM) | Não | Sim | Não | README.md ausente na raiz |
@@ -55,6 +56,7 @@ Gerado em UTC: 2026-10-13T12:42:06.046299+00:00
 | [heidy-evan-escritora](https://github.com/cincoregioes-star/heidy-evan-escritora) | Sim | Sim | Não | — |
 | [historia-teste](https://github.com/cincoregioes-star/historia-teste) | Não | Sim | Não | README.md ausente na raiz |
 | [ingles-teste](https://github.com/cincoregioes-star/ingles-teste) | Não | Sim | Não | README.md ausente na raiz |
+| [instituto-ensinomeu](https://github.com/cincoregioes-star/instituto-ensinomeu) | Sim | Sim | Não | — |
 | [isca-gabarito-max-morada-nova-](https://github.com/cincoregioes-star/isca-gabarito-max-morada-nova-) | Não | Sim | Não | README.md ausente na raiz |
 | [literatura-teste](https://github.com/cincoregioes-star/literatura-teste) | Não | Sim | Não | README.md ausente na raiz |
 | [matematica-teste](https://github.com/cincoregioes-star/matematica-teste) | Não | Sim | Não | README.md ausente na raiz |
