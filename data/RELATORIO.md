@@ -1,8 +1,8 @@
 # TAVARES Bot — Auditoria técnica
 
-Gerado em UTC: 2026-10-26T17:26:33.175794+00:00
+Gerado em UTC: 2026-11-02T20:48:52.104383+00:00
 
-**Repositórios:** 80 | **Sem README na raiz:** 69 | **Sem index na raiz:** 8 | **Arquivados:** 0
+**Repositórios:** 82 | **Sem README na raiz:** 70 | **Sem index na raiz:** 8 | **Arquivados:** 0
 
 > A ausência de index.html ou README.md na raiz não prova defeito. Projetos podem ter outras estruturas.
 
@@ -52,17 +52,19 @@ Gerado em UTC: 2026-10-26T17:26:33.175794+00:00
 | [gabarito-orientador-social](https://github.com/cincoregioes-star/gabarito-orientador-social) | Não | Sim | Não | README.md ausente na raiz |
 | [gabarito-pdm-beberibe](https://github.com/cincoregioes-star/gabarito-pdm-beberibe) | Não | Sim | Não | README.md ausente na raiz |
 | [Gabarito_max_oficial](https://github.com/cincoregioes-star/Gabarito_max_oficial) | Não | Não | Não | README.md ausente na raiz; index.html ausente na raiz (pode usar outra estrutura) |
+| [galeria-max](https://github.com/cincoregioes-star/galeria-max) | Não | Sim | Não | README.md ausente na raiz |
 | [geografia-teste](https://github.com/cincoregioes-star/geografia-teste) | Não | Sim | Não | README.md ausente na raiz |
 | [heidy-evan-escritora](https://github.com/cincoregioes-star/heidy-evan-escritora) | Sim | Sim | Não | — |
 | [historia-teste](https://github.com/cincoregioes-star/historia-teste) | Não | Sim | Não | README.md ausente na raiz |
 | [ingles-teste](https://github.com/cincoregioes-star/ingles-teste) | Não | Sim | Não | README.md ausente na raiz |
-| [instituto-ensinomeu](https://github.com/cincoregioes-star/instituto-ensinomeu) | Sim | Sim | Não | — |
+| [instituto-ensinomeu](https://github.com/cincoregioes-star/instituto-ensinomeu) | Sim | Sim | Sim | — |
 | [isca-gabarito-max-morada-nova-](https://github.com/cincoregioes-star/isca-gabarito-max-morada-nova-) | Não | Sim | Não | README.md ausente na raiz |
 | [literatura-teste](https://github.com/cincoregioes-star/literatura-teste) | Não | Sim | Não | README.md ausente na raiz |
 | [matematica-teste](https://github.com/cincoregioes-star/matematica-teste) | Não | Sim | Não | README.md ausente na raiz |
 | [matriz-educacional](https://github.com/cincoregioes-star/matriz-educacional) | Não | Sim | Não | README.md ausente na raiz |
 | [memorial-digital-geneal-gico](https://github.com/cincoregioes-star/memorial-digital-geneal-gico) | Não | Sim | Não | README.md ausente na raiz |
 | [milmo-legacy-hub](https://github.com/cincoregioes-star/milmo-legacy-hub) | Sim | Sim | Não | — |
+| [minha-graduacao](https://github.com/cincoregioes-star/minha-graduacao) | Sim | Sim | Sim | — |
 | [oficial-portal-gabaritomax](https://github.com/cincoregioes-star/oficial-portal-gabaritomax) | Não | Sim | Não | README.md ausente na raiz |
 | [orientador-social-territorio-transformacao](https://github.com/cincoregioes-star/orientador-social-territorio-transformacao) | Sim | Sim | Não | — |
 | [PaySupport-Flow-Demo](https://github.com/cincoregioes-star/PaySupport-Flow-Demo) | Não | Sim | Não | README.md ausente na raiz |

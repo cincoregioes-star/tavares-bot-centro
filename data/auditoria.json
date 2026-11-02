@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-10-26T17:26:33.175794+00:00",
+  "gerado_em": "2026-11-02T20:48:52.104383+00:00",
   "usuario": "cincoregioes-star",
-  "total": 80,
-  "sem_readme_raiz": 69,
+  "total": 82,
+  "sem_readme_raiz": 70,
   "sem_index_raiz": 8,
   "arquivados": 0,
   "repositorios": [
@@ -613,6 +613,20 @@
       ]
     },
     {
+      "nome": "galeria-max",
+      "url": "https://github.com/cincoregioes-star/galeria-max",
+      "descricao": null,
+      "atualizado": "2026-10-28T13:45:52Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz"
+      ]
+    },
+    {
       "nome": "geografia-teste",
       "url": "https://github.com/cincoregioes-star/geografia-teste",
       "descricao": null,
@@ -670,12 +684,12 @@
       "nome": "instituto-ensinomeu",
       "url": "https://github.com/cincoregioes-star/instituto-ensinomeu",
       "descricao": null,
-      "atualizado": "2026-10-20T11:54:52Z",
+      "atualizado": "2026-10-31T13:30:31Z",
       "arquivado": false,
       "branch": "main",
       "readme_raiz": true,
       "index_raiz": true,
-      "workflows": false,
+      "workflows": true,
       "alertas": []
     },
     {
@@ -758,6 +772,18 @@
       "readme_raiz": true,
       "index_raiz": true,
       "workflows": false,
+      "alertas": []
+    },
+    {
+      "nome": "minha-graduacao",
+      "url": "https://github.com/cincoregioes-star/minha-graduacao",
+      "descricao": null,
+      "atualizado": "2026-10-28T14:54:52Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": true,
+      "index_raiz": true,
+      "workflows": true,
       "alertas": []
     },
     {
@@ -1076,7 +1102,7 @@
       "nome": "tavares-bot-centro",
       "url": "https://github.com/cincoregioes-star/tavares-bot-centro",
       "descricao": null,
-      "atualizado": "2026-10-19T17:31:47Z",
+      "atualizado": "2026-10-26T17:26:34Z",
       "arquivado": false,
       "branch": "main",
       "readme_raiz": true,
