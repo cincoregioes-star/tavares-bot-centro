@@ -1,8 +1,8 @@
 # TAVARES Bot — Auditoria técnica
 
-Gerado em UTC: 2026-11-09T21:28:42.177394+00:00
+Gerado em UTC: 2026-11-16T21:05:24.902306+00:00
 
-**Repositórios:** 82 | **Sem README na raiz:** 70 | **Sem index na raiz:** 8 | **Arquivados:** 0
+**Repositórios:** 83 | **Sem README na raiz:** 70 | **Sem index na raiz:** 8 | **Arquivados:** 0
 
 > A ausência de index.html ou README.md na raiz não prova defeito. Projetos podem ter outras estruturas.
 
@@ -21,6 +21,7 @@ Gerado em UTC: 2026-11-09T21:28:42.177394+00:00
 | [base-sintropia](https://github.com/cincoregioes-star/base-sintropia) | Sim | Sim | Não | — |
 | [base-sintropia-bi](https://github.com/cincoregioes-star/base-sintropia-bi) | Sim | Sim | Não | — |
 | [biologia-teste](https://github.com/cincoregioes-star/biologia-teste) | Não | Sim | Não | README.md ausente na raiz |
+| [borafaz](https://github.com/cincoregioes-star/borafaz) | Sim | Sim | Não | — |
 | [brasil-forte-profissoes](https://github.com/cincoregioes-star/brasil-forte-profissoes) | Não | Sim | Não | README.md ausente na raiz |
 | [caderno-digital-pdm-beberibe-2026](https://github.com/cincoregioes-star/caderno-digital-pdm-beberibe-2026) | Não | Sim | Não | README.md ausente na raiz |
 | [Data-AI-Interview-Pro](https://github.com/cincoregioes-star/Data-AI-Interview-Pro) | Não | Sim | Não | README.md ausente na raiz |
