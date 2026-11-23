@@ -1,23 +1,26 @@
 # TAVARES Bot — Auditoria técnica
 
-Gerado em UTC: 2026-11-16T21:05:24.902306+00:00
+Gerado em UTC: 2026-11-23T22:43:23.755467+00:00
 
-**Repositórios:** 83 | **Sem README na raiz:** 70 | **Sem index na raiz:** 8 | **Arquivados:** 0
+**Repositórios:** 88 | **Sem README na raiz:** 70 | **Sem index na raiz:** 9 | **Arquivados:** 0
 
 > A ausência de index.html ou README.md na raiz não prova defeito. Projetos podem ter outras estruturas.
 
 | Repositório | README | index | Workflows | Alertas |
 |---|---|---|---|---|
 | [-simulado-copa-isca](https://github.com/cincoregioes-star/-simulado-copa-isca) | Não | Sim | Não | README.md ausente na raiz |
+| [album-combate-bullying](https://github.com/cincoregioes-star/album-combate-bullying) | Sim | Sim | Sim | — |
 | [album-craques-da-varzea](https://github.com/cincoregioes-star/album-craques-da-varzea) | Não | Sim | Não | README.md ausente na raiz |
 | [album-debutantes](https://github.com/cincoregioes-star/album-debutantes) | Não | Sim | Não | README.md ausente na raiz |
+| [album-direitos-eca](https://github.com/cincoregioes-star/album-direitos-eca) | Sim | Sim | Sim | — |
 | [album-dupla-exclusao](https://github.com/cincoregioes-star/album-dupla-exclusao) | Sim | Sim | Não | — |
 | [album-dupla-exclusao-premium](https://github.com/cincoregioes-star/album-dupla-exclusao-premium) | Não | Sim | Sim | README.md ausente na raiz |
 | [album-feira--de-ciencias-ana-faco-](https://github.com/cincoregioes-star/album-feira--de-ciencias-ana-faco-) | Não | Sim | Não | README.md ausente na raiz |
+| [album-profissoes-projeto-de-vida](https://github.com/cincoregioes-star/album-profissoes-projeto-de-vida) | Sim | Sim | Sim | — |
 | [amalista-adm-premium](https://github.com/cincoregioes-star/amalista-adm-premium) | Não | Sim | Não | README.md ausente na raiz |
 | [artes-teste](https://github.com/cincoregioes-star/artes-teste) | Não | Sim | Não | README.md ausente na raiz |
 | [atualidades-teste](https://github.com/cincoregioes-star/atualidades-teste) | Não | Sim | Não | README.md ausente na raiz |
-| [BASE-Orienta-Social-2.0](https://github.com/cincoregioes-star/BASE-Orienta-Social-2.0) | Não | Sim | Não | README.md ausente na raiz |
+| [BASE-Orienta-Social-2.0](https://github.com/cincoregioes-star/BASE-Orienta-Social-2.0) | Sim | Sim | Não | — |
 | [base-sintropia](https://github.com/cincoregioes-star/base-sintropia) | Sim | Sim | Não | — |
 | [base-sintropia-bi](https://github.com/cincoregioes-star/base-sintropia-bi) | Sim | Sim | Não | — |
 | [biologia-teste](https://github.com/cincoregioes-star/biologia-teste) | Não | Sim | Não | README.md ausente na raiz |
@@ -68,6 +71,8 @@ Gerado em UTC: 2026-11-16T21:05:24.902306+00:00
 | [minha-graduacao](https://github.com/cincoregioes-star/minha-graduacao) | Sim | Sim | Sim | — |
 | [oficial-portal-gabaritomax](https://github.com/cincoregioes-star/oficial-portal-gabaritomax) | Não | Sim | Não | README.md ausente na raiz |
 | [orientador-social-territorio-transformacao](https://github.com/cincoregioes-star/orientador-social-territorio-transformacao) | Sim | Sim | Não | — |
+| [pang-ia](https://github.com/cincoregioes-star/pang-ia) | Não | Não | Não | README.md ausente na raiz; index.html ausente na raiz (pode usar outra estrutura) |
+| [pangeia](https://github.com/cincoregioes-star/pangeia) | Sim | Sim | Não | — |
 | [PaySupport-Flow-Demo](https://github.com/cincoregioes-star/PaySupport-Flow-Demo) | Não | Sim | Não | README.md ausente na raiz |
 | [portal-neon](https://github.com/cincoregioes-star/portal-neon) | Não | Sim | Não | README.md ausente na raiz |
 | [portugues-teste](https://github.com/cincoregioes-star/portugues-teste) | Não | Sim | Não | README.md ausente na raiz |

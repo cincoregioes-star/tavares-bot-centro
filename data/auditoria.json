@@ -1,9 +1,9 @@
 {
-  "gerado_em": "2026-11-16T21:05:24.902306+00:00",
+  "gerado_em": "2026-11-23T22:43:23.755467+00:00",
   "usuario": "cincoregioes-star",
-  "total": 83,
+  "total": 88,
   "sem_readme_raiz": 70,
-  "sem_index_raiz": 8,
+  "sem_index_raiz": 9,
   "arquivados": 0,
   "repositorios": [
     {
@@ -19,6 +19,18 @@
       "alertas": [
         "README.md ausente na raiz"
       ]
+    },
+    {
+      "nome": "album-combate-bullying",
+      "url": "https://github.com/cincoregioes-star/album-combate-bullying",
+      "descricao": null,
+      "atualizado": "2026-11-23T16:06:48Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": true,
+      "index_raiz": true,
+      "workflows": true,
+      "alertas": []
     },
     {
       "nome": "album-craques-da-varzea",
@@ -47,6 +59,18 @@
       "alertas": [
         "README.md ausente na raiz"
       ]
+    },
+    {
+      "nome": "album-direitos-eca",
+      "url": "https://github.com/cincoregioes-star/album-direitos-eca",
+      "descricao": null,
+      "atualizado": "2026-11-23T20:29:56Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": true,
+      "index_raiz": true,
+      "workflows": true,
+      "alertas": []
     },
     {
       "nome": "album-dupla-exclusao",
@@ -87,6 +111,18 @@
       "alertas": [
         "README.md ausente na raiz"
       ]
+    },
+    {
+      "nome": "album-profissoes-projeto-de-vida",
+      "url": "https://github.com/cincoregioes-star/album-profissoes-projeto-de-vida",
+      "descricao": null,
+      "atualizado": "2026-11-23T20:51:08Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": true,
+      "index_raiz": true,
+      "workflows": true,
+      "alertas": []
     },
     {
       "nome": "amalista-adm-premium",
@@ -134,15 +170,13 @@
       "nome": "BASE-Orienta-Social-2.0",
       "url": "https://github.com/cincoregioes-star/BASE-Orienta-Social-2.0",
       "descricao": null,
-      "atualizado": "2026-08-18T14:59:19Z",
+      "atualizado": "2026-11-21T12:28:13Z",
       "arquivado": false,
       "branch": "main",
-      "readme_raiz": false,
+      "readme_raiz": true,
       "index_raiz": true,
       "workflows": false,
-      "alertas": [
-        "README.md ausente na raiz"
-      ]
+      "alertas": []
     },
     {
       "nome": "base-sintropia",
@@ -696,7 +730,7 @@
       "nome": "instituto-ensinomeu",
       "url": "https://github.com/cincoregioes-star/instituto-ensinomeu",
       "descricao": null,
-      "atualizado": "2026-11-16T12:44:05Z",
+      "atualizado": "2026-11-20T21:34:45Z",
       "arquivado": false,
       "branch": "main",
       "readme_raiz": true,
@@ -825,6 +859,33 @@
       "alertas": []
     },
     {
+      "nome": "pang-ia",
+      "url": "https://github.com/cincoregioes-star/pang-ia",
+      "descricao": null,
+      "atualizado": "2026-11-22T16:36:43Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": false,
+      "index_raiz": false,
+      "workflows": false,
+      "alertas": [
+        "README.md ausente na raiz",
+        "index.html ausente na raiz (pode usar outra estrutura)"
+      ]
+    },
+    {
+      "nome": "pangeia",
+      "url": "https://github.com/cincoregioes-star/pangeia",
+      "descricao": null,
+      "atualizado": "2026-11-22T23:08:50Z",
+      "arquivado": false,
+      "branch": "main",
+      "readme_raiz": true,
+      "index_raiz": true,
+      "workflows": false,
+      "alertas": []
+    },
+    {
       "nome": "PaySupport-Flow-Demo",
       "url": "https://github.com/cincoregioes-star/PaySupport-Flow-Demo",
       "descricao": null,
@@ -898,7 +959,7 @@
       "nome": "radar-conservador-brasil",
       "url": "https://github.com/cincoregioes-star/radar-conservador-brasil",
       "descricao": null,
-      "atualizado": "2026-05-13T15:58:59Z",
+      "atualizado": "2026-11-18T14:11:16Z",
       "arquivado": false,
       "branch": "main",
       "readme_raiz": false,
@@ -1114,7 +1175,7 @@
       "nome": "tavares-bot-centro",
       "url": "https://github.com/cincoregioes-star/tavares-bot-centro",
       "descricao": null,
-      "atualizado": "2026-11-09T21:28:43Z",
+      "atualizado": "2026-11-16T21:05:26Z",
       "arquivado": false,
       "branch": "main",
       "readme_raiz": true,
